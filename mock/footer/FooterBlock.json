@@ -1,0 +1,14 @@
+{
+  "mod": "_footer-block",
+  "bgImage": {
+    "src": "/img/footer-block/image-bg.png",
+    "alt": "Footer background"
+  },
+  "content": {
+    "label": "INTERIOR",
+    "title": "Laborum Ullamco Sunt id&nbsp;ut&nbsp;Sunt",
+    "author": "Bessie Hawkins",
+    "date": "May 7, 2019 (10 mins read)",
+    "textContent": "Proident aliquip velit qui commodo officia qui consectetur dolor ullamco aliquip elit incididunt. Ea minim ex consectetur excepteur. Ex laborum nostrud mollit sint consectetur Lorem amet aliqua do enim. Commodo duis dolor anim excepteur. In aliquip mollit nulla consequat velit magna."
+  }
+}

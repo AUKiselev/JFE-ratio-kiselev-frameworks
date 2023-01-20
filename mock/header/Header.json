@@ -1,0 +1,20 @@
+{
+  "logo": {
+    "src": "/img/header/header-logo.svg",
+    "alt": "Header logo"
+  },
+  "navMenu": [
+    {
+      "title": "Home",
+      "to": "/"
+    },
+    {
+      "title": "Blog",
+      "to": "/blog"
+    },
+    {
+      "title": "About",
+      "to": "/about"
+    }
+  ]
+}

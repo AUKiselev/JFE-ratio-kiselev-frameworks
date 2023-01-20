@@ -1,0 +1,11 @@
+{
+  "bgImage": {
+    "src": "/img/title-block/image-bg.png",
+    "alt": "Title background"
+  },
+  "content": {
+    "label": "FEATURED ARTICLE",
+    "author": "Ralph Hawkins",
+    "date": "May 7, 2019 (10 mins read)"
+  }
+}
